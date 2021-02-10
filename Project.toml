@@ -1,0 +1,13 @@
+name = "BenchmarkPlottingUtilities"
+uuid = "c422a206-6a5b-4040-88f1-7765e0932469"
+authors = ["Chris Elrod", "Dilum Aluthge", "contributors"]
+version = "0.1.0-DEV"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.4"
+
+[targets]
+test = ["Test"]

@@ -1,0 +1,3 @@
+[deps]
+BenchmarkPlottingUtilities = "c422a206-6a5b-4040-88f1-7765e0932469"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
